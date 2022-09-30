@@ -1,6 +1,6 @@
 {
-    "name": "parcel-plugin-vldom",
-    "version": "1.0.1",
+    "name": "parcel-transformer-vldom",
+    "version": "1.0.0",
     "description": "Parcel plugin to compile vldom",
     "main": "index.js",
     "keywords": [
