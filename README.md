@@ -1,6 +1,17 @@
 # Parcel plugin to compile vldom
 
-This plugin works on the first bundling step; Transformer.
+## Installation
 
 To install the package run<br>
-> $ npm install --save-dev parcel-plugin-vldom
+> $ npm install --save-dev parcel-transformer-vldom
+
+Create or update the parcel config
+
+```
+{
+    "extends": ["@parcel/config-default"],
+    "transformers": {
+        "*.js": ["...", "parcel-transformer-vldom"]
+    }
+}
+```
