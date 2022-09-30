@@ -1,13 +1,13 @@
 {
     "name": "parcel-plugin-vldom",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Parcel plugin to compile vldom",
     "main": "index.js",
-	"keywords": [
-		"vldom",
-		"vlui",
+    "keywords": [
+        "vldom",
+        "vlui",
         "parcel-plugin"
-	],
+    ],
     "devDependencies": {
         "parcel": "^2.7.0"
     }
