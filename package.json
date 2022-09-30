@@ -3,6 +3,11 @@
     "version": "1.0.0",
     "description": "Parcel plugin to compile vldom",
     "main": "index.js",
+	"keywords": [
+		"vldom",
+		"vlui",
+        "parcel-plugin"
+	],
     "devDependencies": {
         "parcel": "^2.7.0"
     }
